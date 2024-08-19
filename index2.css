@@ -1,0 +1,146 @@
+
+body{
+    background-image: url(1.jpg);
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    height: 100px;
+    width: 1370px;
+    background-color: white;
+    
+}
+#logo{
+    height: 100px;
+    width: 200px;
+    line-height: 100px;
+    text-align: center;
+    float: left;
+}
+#nav{
+    height: 100px;
+    width: 500px;
+    float: left;
+    margin-left: 660px;
+    line-height: 100px;
+
+}
+ul li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#heading{
+    height: 100px;
+    width: 1360px;
+    margin: 0 auto;
+    line-height: 100px;
+    text-align: center;  
+    color: white; 
+}
+#p{
+    height: 50px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+#mid{
+    height: 100px;
+    width: 1360px;
+    margin: 0 auto;
+
+
+}
+#a{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-left: 480px;
+    border-radius: 50px;
+    line-height: 100px;
+    text-align: center;
+}
+#b{
+    height: 100px;
+    width: 200px;
+    border: 1px solid white;
+    float: left;
+    margin-left: 20px;
+    border-radius: 50px;
+    line-height: 100px;
+    text-align: center;
+}
+#b1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    border-radius: 20px;
+    margin-left: 250px;
+    line-height: 200px;
+    text-align: center;
+}
+#b2{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    border-radius: 20px;
+    margin-left: 20px;
+    line-height: 200px;
+    text-align: center;
+}
+#b3{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    border-radius: 20px;
+    margin-left: 20px;
+    line-height: 200px;
+    text-align: center;
+}
+#b4{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    border-radius: 20px;
+    margin-left: 20px;
+    line-height: 200px;
+    text-align: center;
+}
+#b1:hover{
+     background-color: aquamarine;
+     box-shadow: 1px 1px 1px black;
+     
+}
+#b2:hover{
+    background-color: aquamarine;
+    box-shadow: 1px 1px 1px black;
+    margin-left: 20px;
+}
+#b3:hover{
+    background-color: aquamarine;
+    box-shadow: 1px 1px 1px black;
+    margin-left: 20px;
+}
+#b4:hover{
+    background-color: aquamarine;
+    box-shadow: 1px 1px 1px black;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+    
